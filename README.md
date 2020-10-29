@@ -1,2 +1,2 @@
 # Chinese-text-sentiment-classification-in-finance
-Chinese text sentiment classification model in financial field
+定制化专业领域的文本分类模型仍然是一个挑战，原因有三个：深度学习算法设计、带大量专业用语文本的分词，以及批量训练数据标注。本项目针对这三类挑战，针对性地提出了一种深度学习模型，专业用来预测金融文本情感倾向，并可视化构建相关行为金融指数。
